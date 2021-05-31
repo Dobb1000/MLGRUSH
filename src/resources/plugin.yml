@@ -1,0 +1,5 @@
+name: MLG
+version: Alpha 1.0
+main: net.craftions.main.Main
+description: MLG PLUGIN
+api-version: 1.16

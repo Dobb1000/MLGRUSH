@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MlgRush">
+    <output-path>E:/Users/oskar/Desktop/testserver/MLG RUSH/plugins</output-path>
+    <root id="archive" name="MlgRush.jar">
+      <element id="module-output" name="MLGRUSH" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>
